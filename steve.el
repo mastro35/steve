@@ -419,10 +419,14 @@
     )
   )
 
-;; Set a Steve's quote as the scratch buffer initial message
-;; if the use-steve-quote-as-scratch-buffer-initial-message is not nil
-(if use-steve-quote-as-scratch-buffer-initial-message
-  (setq initial-scratch-message (get-steve-quote))
+(defvar use-steve-quote-as-scratch-buffer-initial-message nil)
+
+;;;###autoload
+(defun steve-init () 
+  "If requested, set a Steve's quote as the scratch buffer initial message."
+  (if use-steve-quote-as-scratch-buffer-initial-message
+      (setq initial-scratch-message (get-steve-quote))
+    )
   )
 
 (provide 'steve)
