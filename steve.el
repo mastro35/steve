@@ -33,6 +33,7 @@
 
 ;;; Code:
 
+;;;###autoload
 (setq steve-quotes '
       (
        "There’s a phrase in Buddhism, “beginner’s mind.” It’s wonderful to have a beginner’s mind."
@@ -403,12 +404,13 @@
        "The key thing to remember about me is that I’m still a student. I’m still in boot camp. If anyone is reading any of my thoughts, I’d keep that in mind. Don’t take it all too seriously."
        ))
 
-
+;;;###autoload
 (defun get-steve-quote ()
   "Get a random quote from the db."
   (nth (random (length steve-quotes)) steve-quotes)
   )
 
+;;;###autoload
 (defun steve ()
   "Print out a Steve Jobs quote."
   (interactive)
@@ -419,6 +421,7 @@
     )
   )
 
+;;;###autoload
 (defvar use-steve-quote-as-scratch-buffer-initial-message nil)
 
 ;;;###autoload
