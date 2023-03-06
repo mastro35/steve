@@ -1564,58 +1564,106 @@ These are the extremely bright individual contributors
 who were troublemakers at other companies."
 
        "The technology that goes into making a Pixar movie is staggering.
-And yet we sell a consumer product for $7.You pay your $7 and sit down in a movie theaterand you don’t need to know one iota about the technologythat went into making that production in order to enjoy that product."
+And yet we sell a consumer product for $7.
+You pay your $7 and sit down in a movie theaterand 
+you don’t need to know one iota about the technology
+that went into making that production in order to enjoy that product."
 
-       "I think of most things in life as either a Bob Dylan ora Beatles song, but there’s that one line in that one Beatles song,“you and I have memories longer than the road that stretches out ahead.”And that’s clearly true here."
+       "I think of most things in life as either a Bob Dylan or
+a Beatles song, but there’s that one line in that one Beatles song,
+“you and I have memories longer than the road that stretches out ahead.”
+And that’s clearly true here."
 
-       "I believe in environment more than heredity in determining your traits,but still you have to wonder a little about your biological roots."
+       "I believe in environment more than heredity in determining your traits,
+but still you have to wonder a little about your biological roots."
 
-       "What we want to do at Apple is make computers into appliancesand get them to tens of millions of people."
+       "What we want to do at Apple is make computers into appliances
+and get them to tens of millions of people."
 
-       "I’m as proud of the products that we have not doneas I am of the ones we have done."
+       "I’m as proud of the products that we have not done
+as I am of the ones we have done."
 
-       "I remember that I’d go out to the factory, and I’d put on a white gloveto check for dust. I’d find it everywhere.On machines, on the tops of the racks, on the floor.And I’d ask Debbie to get it cleaned.I told her I thought we should be able to eat off the floor of the factory."
+       "I remember that I’d go out to the factory, and I’d put on a white glove
+to check for dust. I’d find it everywhere. 
+On machines, on the tops of the racks, on the floor.
+And I’d ask Debbie to get it cleaned.
+I told her I thought we should be able to eat off the floor of the factory."
 
-       "You read some negative article some idiot writes about you,you just can’t take it too personally.But then that teaches you not to take the really great ones
+       "You read some negative article some idiot writes about you,
+you just can’t take it too personally.
+But then that teaches you not to take the really great ones
 too personally either."
 
        "This is who I am, and you can’t expect me to be somebody I’m not."
 
-       "You can’t con people in this business.The products speak for themselves."
+       "You can’t con people in this business.
+The products speak for themselves."
 
-       "We don’t strive to appear cool. We just try to make the best productswe can. And if they are cool, well, that’s great."
+       "We don’t strive to appear cool.
+We just try to make the best products we can.
+And if they are cool, well, that’s great."
 
-       "You’re building up a mountain and you get to contribute your littlelayer of sedimentary rock to make the mountain that much higher."
+       "You’re building up a mountain
+and you get to contribute your little layer of sedimentary rock
+to make the mountain that much higher."
 
-       "People think it’s this veneer, that the designers are handed this boxand told, “Make it look good!” That’s not what we think design is.It’s not just what it looks like and feels like. Design is how it works."
+       "People think it’s this veneer, that the designers are handed this box
+and told, “Make it look good!” That’s not what we think design is.
+It’s not just what it looks like and feels like.
+Design is how it works."
 
-       "Usually, people never think that much about what they’re doing or whythey do it. They just do it because that’s the way it has been done and it works."
+       "Usually, people never think that much about what they’re doing or why they do it.
+They just do it because that’s the way it has been done and it works."
 
-       "I always asked why you do things. And the answers you invariably get are,“Oh that’s just the way it’s done.”Nobody knows why they do what they do.Nobody thinks about things very deeply in business.That’s what I found."
+       "I always asked why you do things. And the answers you invariably get are,
+“Oh that’s just the way it’s done.”
+Nobody knows why they do what they do.
+Nobody thinks about things very deeply in business.
+That’s what I found."
 
-       "I think life is something that happens in a flash.We just have a brief moment here, and then we are gone."
+       "I think life is something that happens in a flash.
+We just have a brief moment here, and then we are gone."
 
-       "I’ve always felt that death is the greatest invention of life.I’m sure that life evolved without death at first and found thatwithout death, life didn’t work very well because it didn’t make room for the young."
+       "I’ve always felt that death is the greatest invention of life.
+I’m sure that life evolved without death at first and found that without death,
+life didn’t work very well because it didn’t make room for the young."
 
-       "The next thing is going to be computer as guide or agent.And what that means is that it’s going to do more in terms ofanticipating what we want and doing it for us."
+       "The next thing is going to be computer as guide or agent.
+And what that means is that it’s going to do more
+in terms of anticipating what we want and doing it for us."
 
-       "I’m just a guy who probably should have been a semi-talented poeton the Left Bank. I sort of got sidetracked here."
+       "I’m just a guy who probably should have been a semi-talented poet
+on the Left Bank.
+I sort of got sidetracked here."
 
-       "The juice goes out of Christianity when it becomes too basedon faith rather than on living like Jesus or seeingthe world as Jesus saw it."
+       "The juice goes out of Christianity when it becomes too based
+on faith rather than on living like Jesus or seeing
+the world as Jesus saw it."
 
-       "We try to use the talents we do have to express our deep feelings,to show our appreciation of all the contributions that came before us,and to add something to that flow. That’s what has driven me."
+       "We try to use the talents we do have to express our deep feelings,
+to show our appreciation of all the contributions that came before us,
+and to add something to that flow. 
+That’s what has driven me."
 
        "If you’re afraid of failing, you won’t get very far."
 
        "We’re here to put a dent in the universe. Otherwise, why else even be here?"
 
-       "You can’t connect the dots looking forward.You can only connect them looking backwards.So you have to trust that the dots will somehow connect in your future.You have to trust in something, your gut, destiny, life, karma, whatever.This approach has never let me down, and it has made all the difference in my life."
+       "You can’t connect the dots looking forward.
+You can only connect them looking backwards.
+So you have to trust that the dots will somehow connect in your future.
+You have to trust in something, your gut, destiny, life, karma, whatever.
+This approach has never let me down, and it has made all the difference in my life."
 
-       "I think the things you most regret in life are things you didn’t do.What you really regret was never asking that girl to dance."
+       "I think the things you most regret in life are things you didn’t do.
+What you really regret was never asking that girl to dance."
 
        "Stay hungry. Stay foolish."
 
-       "The key thing to remember about me is that I’m still a student.I’m still in boot camp.If anyone is reading any of my thoughts,I’d keep that in mind.Don’t take it all too seriously."))
+       "The key thing to remember about me is that I’m still a student.
+I’m still in boot camp.
+If anyone is reading any of my thoughts, I’d keep that in mind.
+Don’t take it all too seriously."))
 
 ;;;###autoload
 (defun steve-get-steve-quote ()
