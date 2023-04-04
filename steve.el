@@ -2,7 +2,7 @@
 
 
 ;;; Commentary:
-;; 
+;;
 ;; Author: Davide Mastromatteo <mastro35@gmail.com>
 ;; URL: https://github.com/mastro35/steve
 ;; Keywords: amusement
@@ -37,6 +37,7 @@
 ;;;###autoload
 (setq steve-quotes '
       (
+
        "There’s a phrase in Buddhism, “beginner’s mind.”
 It’s wonderful to have a beginner’s mind."
 
@@ -1612,7 +1613,7 @@ and told, “Make it look good!” That’s not what we think design is.
 It’s not just what it looks like and feels like.
 Design is how it works."
 
-       "Usually, people never think that much about what they’re doing or why they do it.
+       "People never think that much about what they’re doing or why they do it.
 They just do it because that’s the way it has been done and it works."
 
        "I always asked why you do things. And the answers you invariably get are,
@@ -1642,7 +1643,7 @@ the world as Jesus saw it."
 
        "We try to use the talents we do have to express our deep feelings,
 to show our appreciation of all the contributions that came before us,
-and to add something to that flow. 
+and to add something to that flow.
 That’s what has driven me."
 
        "If you’re afraid of failing, you won’t get very far."
@@ -1653,7 +1654,8 @@ That’s what has driven me."
 You can only connect them looking backwards.
 So you have to trust that the dots will somehow connect in your future.
 You have to trust in something, your gut, destiny, life, karma, whatever.
-This approach has never let me down, and it has made all the difference in my life."
+This approach has never let me down, and it has made all the difference
+in my life."
 
        "I think the things you most regret in life are things you didn’t do.
 What you really regret was never asking that girl to dance."
