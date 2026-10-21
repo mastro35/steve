@@ -1,6 +1,6 @@
 # steve
 
-| Please note: The main repository of this project is on Codeberg at https://codeberg.org/mastro35/steve. A mirror of the main repository is available on Github at https://github.com/mastro35/steve.
+> Please note: The main repository of this project is on Codeberg at https://codeberg.org/mastro35/steve. A mirror of the main repository is available on Github at https://github.com/mastro35/steve.
 
 This package is a tribute to Steve Jobs, one of the world's greatest minds ever.
 
